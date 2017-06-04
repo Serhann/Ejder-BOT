@@ -1,0 +1,19 @@
+{
+  "name": "ejderbot",
+  "version": "1.9.1",
+  "description": "Discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serhann/Ejder-BOT.git"
+  },
+  "author": "Serhann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Serhann/Ejder-BOT/issues"
+  },
+  "homepage": "https://github.com/Serhann/Ejder-BOT#readme"
+}
