@@ -10,6 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/Serhann/Ejder-BOT.git"
   },
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  },
   "author": "Serhann",
   "license": "MIT",
   "bugs": {
